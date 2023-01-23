@@ -1,0 +1,20 @@
+h1 {
+  color: brown;
+}
+p {
+  color: rgb(6, 5, 59);
+}
+.deportes {
+  color: green;
+  font-size: 16pt;
+}
+.libro {
+  color: gold;
+  text-decoration: underline;
+}
+.fondo-noticias {
+  background-image: url(https://cdn.bizneo.com/blog/wp-content/uploads/2020/03/ejemplo-gestion-recursos-humanos-810x455.webp);
+}
+.fondo {
+  background-color: blueviolet;
+}
