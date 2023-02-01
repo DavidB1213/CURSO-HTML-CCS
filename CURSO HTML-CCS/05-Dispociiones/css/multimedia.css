@@ -1,0 +1,42 @@
+* {
+  padding: auto;
+  margin: auto;
+}
+.img-principal {
+  width: 100vw;
+  opacity: 0.3;
+}
+
+.img-principal:hover {
+  opacity: 1;
+}
+.galeria {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.imagen-galeria {
+  width: 150px;
+}
+
+.imagen-galeria:hover {
+  opacity: 0.3;
+  cursor: pointer;
+}
+
+.video-principal {
+  width: 100vw;
+  height: 100vw;
+  object-fit: cover;
+  position: fixed;
+}
+
+.header {
+  position: relative;
+  text-align: center;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
